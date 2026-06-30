@@ -1,0 +1,6 @@
+{
+  "name": "Veldara",
+  "description": "Sleek immersive landing page for Veldara, featuring high-fidelity interactive scroll video canvas, particles, and custom scroll reveals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
